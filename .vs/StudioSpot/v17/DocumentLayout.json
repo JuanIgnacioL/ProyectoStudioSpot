@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B39E3F9-92F6-4F47-8F4F-677760D910BA}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\logicaaplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B39E3F9-92F6-4F47-8F4F-677760D910BA}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\logicanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\logicaaccesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B66AE5-998C-45FA-B86E-A619B7129A40}|DTOs\\DTOs.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B66AE5-998C-45FA-B86E-A619B7129A40}|DTOs\\DTOs.csproj|solutionrelative:dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAplicacion\\Class1.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\Class1.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAplicacion\\Class1.cs",
+              "RelativeToolTip": "LogicaAplicacion\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:55:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaNegocio\\Class1.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaNegocio\\Class1.cs",
+              "RelativeToolTip": "LogicaNegocio\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:55:06.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAccesoDatos\\Class1.cs",
+              "RelativeToolTip": "LogicaAccesoDatos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:54:51.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "DTOs\\Class1.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\DTOs\\Class1.cs",
+              "RelativeToolTip": "DTOs\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:54:31.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
