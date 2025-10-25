@@ -1,0 +1,12 @@
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.sourcelink.json
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\avasg\OneDrive\Desktop\06 exto Semestre\ProyectoStudioSpot\ProyectoStudioSpot\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BqcddQqvj5UTvPtf9X1AXi06XlgIHcjvE+Say+zdf2Bk43gFTHXNtp57tnUN5bbBUI5z/qwh89fnwcNU9aBZ9g==",
+  "dgSpecHash": "uQkR4+jt4GU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaNegocio\\LogicaNegocio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avasg\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
