@@ -1,22 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\",
+  "WorkspaceRootPath": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B39E3F9-92F6-4F47-8F4F-677760D910BA}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\logicaaplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B39E3F9-92F6-4F47-8F4F-677760D910BA}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicaaccesodatos\\logicaaccesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\logicaaccesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\logicanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74B66AE5-998C-45FA-B86E-A619B7129A40}|DTOs\\DTOs.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74B66AE5-998C-45FA-B86E-A619B7129A40}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\logicaaccesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D267DEE9-0AA7-4BD9-BF29-AA31C788E145}|WebApiStudioSpot\\WebApiStudioSpot.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\webapistudiospot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D267DEE9-0AA7-4BD9-BF29-AA31C788E145}|WebApiStudioSpot\\WebApiStudioSpot.csproj|solutionrelative:webapistudiospot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74B66AE5-998C-45FA-B86E-A619B7129A40}|DTOs\\DTOs.csproj|c:\\users\\ignac\\onedrive\\escritorio\\studiospot\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B66AE5-998C-45FA-B86E-A619B7129A40}|DTOs\\DTOs.csproj|solutionrelative:dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudioSpotDB/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicaaccesodatos\\interfacesrepositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\interfacesrepositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267DEE9-0AA7-4BD9-BF29-AA31C788E145}|WebApiStudioSpot\\WebApiStudioSpot.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\webapistudiospot\\webapistudiospot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D267DEE9-0AA7-4BD9-BF29-AA31C788E145}|WebApiStudioSpot\\WebApiStudioSpot.csproj|solutionrelative:webapistudiospot\\webapistudiospot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267DEE9-0AA7-4BD9-BF29-AA31C788E145}|WebApiStudioSpot\\WebApiStudioSpot.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\webapistudiospot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D267DEE9-0AA7-4BD9-BF29-AA31C788E145}|WebApiStudioSpot\\WebApiStudioSpot.csproj|solutionrelative:webapistudiospot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicaaccesodatos\\basedatos\\studiospotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\basedatos\\studiospotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicaaccesodatos\\repositorios\\repositoriousuariosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\repositorios\\repositoriousuariosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicaaccesodatos\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BAF63-8C39-45ED-85AA-B9E3BC6DB41F}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\entidadesnegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\entidadesnegocio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\valueobject\\usuariovo\\whatsappvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobject\\usuariovo\\whatsappvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\valueobject\\usuariovo\\rutvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobject\\usuariovo\\rutvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\valueobject\\usuariovo\\nombrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobject\\usuariovo\\nombrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\valueobject\\usuariovo\\direccionvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobject\\usuariovo\\direccionvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\valueobject\\usuariovo\\apellidovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobject\\usuariovo\\apellidovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\valueobject\\usuariovo\\contrasenavo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobject\\usuariovo\\contrasenavo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\avasg\\onedrive\\desktop\\06 exto semestre\\proyectostudiospot\\proyectostudiospot\\logicanegocio\\interfaces\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D20EE8C-6CFB-4060-ABC9-0FB821C8019C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfaces\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +85,251 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAplicacion\\Class1.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\Class1.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAplicacion\\Class1.cs",
-              "RelativeToolTip": "LogicaAplicacion\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:55:29.414Z",
+              "DocumentIndex": 1,
+              "Title": "DTOs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\DTOs\\DTOs.csproj",
+              "RelativeDocumentMoniker": "DTOs\\DTOs.csproj",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\DTOs\\DTOs.csproj",
+              "RelativeToolTip": "DTOs\\DTOs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T20:52:12.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaNegocio\\Class1.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\Class1.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaNegocio\\Class1.cs",
-              "RelativeToolTip": "LogicaNegocio\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:55:06.478Z"
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\WebApiStudioSpot\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiStudioSpot\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\WebApiStudioSpot\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiStudioSpot\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T20:29:39.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAccesoDatos\\Class1.cs",
-              "RelativeDocumentMoniker": "LogicaAccesoDatos\\Class1.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAccesoDatos\\Class1.cs",
-              "RelativeToolTip": "LogicaAccesoDatos\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:54:51.627Z"
+              "DocumentIndex": 0,
+              "Title": "LogicaAccesoDatos.csproj",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
+              "RelativeToolTip": "LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T14:02:13.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\DTOs\\Class1.cs",
-              "RelativeDocumentMoniker": "DTOs\\Class1.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\DTOs\\Class1.cs",
-              "RelativeToolTip": "DTOs\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "dbo.Usuarios [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudioSpotDB/True/SqlTable/dbo.Usuarios.sql",
+              "ToolTip": "dbo.Usuarios [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-24T20:37:20.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiStudioSpot",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\WebApiStudioSpot\\WebApiStudioSpot.csproj",
+              "RelativeDocumentMoniker": "WebApiStudioSpot\\WebApiStudioSpot.csproj",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\WebApiStudioSpot\\WebApiStudioSpot.csproj",
+              "RelativeToolTip": "WebApiStudioSpot\\WebApiStudioSpot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T20:07:30.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorioUsuario.cs",
+              "RelativeToolTip": "LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorioUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:54:31.12Z"
+              "WhenOpened": "2025-10-24T17:31:48.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\WebApiStudioSpot\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiStudioSpot\\Program.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\WebApiStudioSpot\\Program.cs",
+              "RelativeToolTip": "WebApiStudioSpot\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:23:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositorioUsuariosEF.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "RelativeToolTip": "LogicaAccesoDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:32:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeToolTip": "LogicaAccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:29:52.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudioSpotContext.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\BaseDatos\\StudioSpotContext.cs",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\BaseDatos\\StudioSpotContext.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAccesoDatos\\BaseDatos\\StudioSpotContext.cs",
+              "RelativeToolTip": "LogicaAccesoDatos\\BaseDatos\\StudioSpotContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:11:29.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\EntidadesNegocio\\Cliente.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesNegocio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\EntidadesNegocio\\Cliente.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesNegocio\\Cliente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:10:44.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\EntidadesNegocio\\Administrador.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesNegocio\\Administrador.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\EntidadesNegocio\\Administrador.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesNegocio\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:10:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WhatsAppVO.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\WhatsAppVO.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObject\\UsuarioVO\\WhatsAppVO.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\WhatsAppVO.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObject\\UsuarioVO\\WhatsAppVO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:16:50.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RUTVO.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\RUTVO.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObject\\UsuarioVO\\RUTVO.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\RUTVO.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObject\\UsuarioVO\\RUTVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:16:22.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NombreVO.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\NombreVO.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObject\\UsuarioVO\\NombreVO.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\NombreVO.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObject\\UsuarioVO\\NombreVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:16:05.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DireccionVO.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\DireccionVO.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObject\\UsuarioVO\\DireccionVO.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\DireccionVO.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObject\\UsuarioVO\\DireccionVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:15:24.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApellidoVO.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\ApellidoVO.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObject\\UsuarioVO\\ApellidoVO.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\ApellidoVO.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObject\\UsuarioVO\\ApellidoVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:14:16.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContrasenaVO.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\ContrasenaVO.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObject\\UsuarioVO\\ContrasenaVO.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\ValueObject\\UsuarioVO\\ContrasenaVO.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObject\\UsuarioVO\\ContrasenaVO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:14:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IValidable.cs",
+              "DocumentMoniker": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\Interfaces\\IValidable.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Interfaces\\IValidable.cs",
+              "ToolTip": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaNegocio\\Interfaces\\IValidable.cs",
+              "RelativeToolTip": "LogicaNegocio\\Interfaces\\IValidable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:17:59.081Z",
+              "EditorCaption": ""
             }
           ]
         }

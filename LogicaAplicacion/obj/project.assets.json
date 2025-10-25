@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ignac\\.nuget\\packages\\": {},
+    "C:\\Users\\avasg\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAplicacion\\LogicaAplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAplicacion\\LogicaAplicacion.csproj",
       "projectName": "LogicaAplicacion",
-      "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAplicacion\\LogicaAplicacion.csproj",
-      "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\StudioSpot\\LogicaAplicacion\\obj\\",
+      "projectPath": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAplicacion\\LogicaAplicacion.csproj",
+      "packagesPath": "C:\\Users\\avasg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\avasg\\OneDrive\\Desktop\\06 exto Semestre\\ProyectoStudioSpot\\ProyectoStudioSpot\\LogicaAplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\avasg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
